@@ -1,5 +1,5 @@
-# useful-scripts
-Collection of useful scripts
+# Collection of useful scripts
+
 
 ## isItFridayYet.sh - [Go](https://github.com/lght/useful-scripts/blob/master/isItFridayYet.sh)
 
